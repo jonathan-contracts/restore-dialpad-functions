@@ -1,0 +1,18 @@
+{
+  "name": "restore-dialpad-functions",
+  "version": "1.0.0",
+  "description": "restore-dialpad-functions for agent to agent calling",
+  "main": "create-new-task.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan Dilks for Vouch",
+  "private": true,
+  "engines": {
+    "node": "^10"
+  },
+  "dependencies": {
+    "twilio-flex-token-validator": "^1.5.4",
+    "twilio-run": "^2.7.0"
+  }
+}
